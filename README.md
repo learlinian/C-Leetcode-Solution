@@ -1,4 +1,4 @@
-# C++-Leetcode-Solution
+# C++ Leetcode Solution
 C++ Leetcode solutions with detailed explanation and video tutorials.
 
 For Python Leetcode solutions, please visit: https://github.com/learlinian/Python-Leetcode-Solution
