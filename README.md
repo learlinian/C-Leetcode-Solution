@@ -1,5 +1,5 @@
 # C++-Leetcode-Solution
-C++ Leetcode solutions with detailed explanation and video tutorials https://www.nianliblog.com/projects/leetcode
+C++ Leetcode Solutions with detailed explanation and video tutorials.
 
 For Python Leetcode Solutions, please visit: https://github.com/learlinian/Python-Leetcode-Solution
 
